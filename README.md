@@ -6,6 +6,10 @@ Full application running: url
 
 In the project directory, you can run:
 
+### `yarn install`
+
+Installs the app dependencies.<br>
+
 ### `yarn start`
 
 Runs the app in the development mode.<br>
