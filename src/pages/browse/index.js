@@ -7,7 +7,7 @@ const Browse = () => (
     <Title>Navegar</Title>
 
     <List>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://sistemasertanejo.com/wp-content/uploads/2018/10/gusttavo.jpg"
           alt="O Embaixador"
@@ -15,7 +15,7 @@ const Browse = () => (
         <strong>O Embaixador</strong>
         <p>Conheça as melhores músicas do mais brabo do Brasil.</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://sistemasertanejo.com/wp-content/uploads/2018/10/gusttavo.jpg"
           alt="O Embaixador"
@@ -23,7 +23,7 @@ const Browse = () => (
         <strong>O Embaixador</strong>
         <p>Conheça as melhores músicas do mais brabo do Brasil.</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://sistemasertanejo.com/wp-content/uploads/2018/10/gusttavo.jpg"
           alt="O Embaixador"
@@ -31,7 +31,7 @@ const Browse = () => (
         <strong>O Embaixador</strong>
         <p>Conheça as melhores músicas do mais brabo do Brasil.</p>
       </Playlist>
-      <Playlist href="">
+      <Playlist to="/playlists/1">
         <img
           src="https://sistemasertanejo.com/wp-content/uploads/2018/10/gusttavo.jpg"
           alt="O Embaixador"
